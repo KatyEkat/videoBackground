@@ -12,6 +12,8 @@ HTML, SCSS (CSS), JavaScript
 
 ## Project link
 
+https://video-background-opal.vercel.app/
+
 
 
 ## Instructions for launching the project
